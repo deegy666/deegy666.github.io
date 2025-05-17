@@ -5,7 +5,8 @@
 <div class='paper-box-text' markdown="1">
 
 [Respiratory Sounds Classification by Fusing the Time-Domain and 2D Spectral Features](https://www.sciencedirect.com/science/article/abs/pii/S1746809425003015) \\
-**Gaoyang Dong**, Yufei Shen, Jianhong Wang, Mingli Zhang, Ping Sun and Minghui Zhang
+**Gaoyang Dong**, Yufei Shen, Jianhong Wang, Mingli Zhang, Ping Sun and Minghui Zhang (中科院2区)
+
 [**Code**](https://github.com/deegy666/RSC-FTF)
 </div>
 </div>
@@ -14,7 +15,8 @@
 <div class='paper-box-text' markdown="1">
 
 [Low-rank Adaptation Method for Respiratory Sound Classification: A necessary road towards Large Models](https://ieeexplore.ieee.org/document/10889965)\\
-**Gaoyang Dong**, Yufei Shen, Jianhong Wang, Shunwang Xie, Ping Sun and Minghui Zhang (中科院2区)
+**Gaoyang Dong**, Yufei Shen, Jianhong Wang, Shunwang Xie, Ping Sun and Minghui Zhang
+
 [**Code**](https://github.com/deegy666/LoRA-RSC)
 </div>
 </div>
