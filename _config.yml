@@ -6,14 +6,14 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Gaoyang Dong (董高杨)"
+title                    : "Gaoyang Dong"
 description              : "Focusing on medical signal process and speech large model."
 repository               : "deegy666/deegy666.github.io"
 
 
 # Site Author
 author:
-  name             : "Gaoyang Dong (董高杨)"
+  name             : "Gaoyang Dong"
   avatar           : "images/IMAGE.jpg"
   bio              : #""
   location         : "Beijing, China"
