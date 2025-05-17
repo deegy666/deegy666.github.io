@@ -6,18 +6,10 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yi Ren (任意)"
-description              : "Focusing on video and speech large generation model."
-repository               : "rayeren/rayeren.github.io"
-google_scholar_stats_use_cdn : true
+title                    : "Gaoyang Dong (董高杨)"
+description              : "Focusing on medical signal process and speech large model."
+repository               : "deegy666/deegy666.github.io"
 
-# google analytics
-google_analytics_id      : G-SWFCX99KQZ
-
-# SEO Related
-google_site_verification : b_BbOIt7d513ZXYDw-YRMicO6O5tthYiouqWDdWjGTU
-bing_site_verification   : B5AA590E7B9C03956A6F7DEC0F776211
-baidu_site_verification  : code-ZxFK3f4pfb
 
 # Site Author
 author:
