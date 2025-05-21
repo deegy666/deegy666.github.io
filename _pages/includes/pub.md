@@ -1,6 +1,16 @@
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Interspeech2025</div><img src='images/ADD_RSC.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Adaptive Differential Denoising for Respiratory Sounds Classification](https://github.com/deegy666/ADD-RSC) \\
+**Gaoyang Dong**, Zhicheng Zhang, Ping Sun and Minghui Zhang
+
+[**Code**](https://github.com/deegy666/ADD-RSC)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">BSPC</div><img src='images/BSPC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
