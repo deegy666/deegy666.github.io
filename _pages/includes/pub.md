@@ -4,7 +4,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Interspeech2025</div><img src='images/ADD_RSC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Adaptive Differential Denoising for Respiratory Sounds Classification](https://github.com/deegy666/ADD-RSC) \\
+[Adaptive Differential Denoising for Respiratory Sounds Classification](https://arxiv.org/pdf/2506.02505) \\
 **Gaoyang Dong**, Zhicheng Zhang, Ping Sun and Minghui Zhang
 
 [**Code**](https://github.com/deegy666/ADD-RSC)
