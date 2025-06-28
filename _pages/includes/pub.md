@@ -42,7 +42,7 @@ Jianhong Wang, **Gaoyang Dong**, Yufei Shen, Xiaoling Xu, Minghui Zhang, Ping Su
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICSIP 2024</div><img src='images/ICSIP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Lightweight Hierarchical Transformer Combining Patch-Random and Positional Encoding for Respiratory Sound Classification](https://arxiv.org/abs/2109.15166) \\
+[Lightweight Hierarchical Transformer Combining Patch-Random and Positional Encoding for Respiratory Sound Classification](https://ieeexplore.ieee.org/document/10671504) \\
 Jianhong Wang, **Gaoyang Dong**, Yufei Shen, Xiaoling Xu, Minghui Zhang, Ping Sun
 </div>
 </div>
