@@ -1,4 +1,4 @@
-# 🔥 
+# 🔥 News 
 - *2025.08*: 📑 Reviewer of AAAI 2026.
 - *2025.07*: 🎉 A paper are accepted by VTC 2026 fall
 - *2025.05*: 🎉 A paper are accepted by Interspeech 2025
